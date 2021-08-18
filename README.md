@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, software and technology.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on front-end web development.
-- 📫 You can reach my via my e-mail.
+- 📫 You can reach me my via my e-mail.
 
 <!---
 m-vahhaaj/m-vahhaaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
