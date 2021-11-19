@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-vahhaaj
 - 👀 I’m interested in programming, software and technology.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on front-end web development.
+- 💞️ I’m looking to collaborate on python development.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/m-vahhaaj).
 
 <!---
